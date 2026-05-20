@@ -1,4 +1,4 @@
-[gymbase-sql_README.md](https://github.com/user-attachments/files/28066616/gymbase-sql_README.md)
+
 # 🏋️ GymBase — Base de données d'une salle de sport
 
 > Projet académique — EFREI Paris · 2025  
